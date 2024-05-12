@@ -1,0 +1,20 @@
+CNC 	Computer Numerical Control 
+
+MQTT 	Message Queuing Telemetry Transport
+
+API		Application Porgramming Interface
+
+IoT		Internet of Things
+
+EEPROM 	Electrically Erasable Programmable Read-Only Memory
+
+MVC		Model-View-Controller
+
+
+Sequence
+A set of operations or commands that are configured to be executed in order to perform tasks	
+
+
+G-Code
+A language used to tell computerized
+machine tools how to perform functions.
